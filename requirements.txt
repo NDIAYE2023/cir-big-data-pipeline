@@ -1,0 +1,6 @@
+pandas
+pymongo
+pyspark
+matplotlib
+seaborn
+openpyxl
